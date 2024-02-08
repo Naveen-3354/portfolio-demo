@@ -18,8 +18,9 @@ function App() {
 
       <Learning /> 
        <Projects/>
-      <New/>  */}
-      <Scroll/>
+      <New/> 
+      */}
+      <Scroll/> 
     </div>
   );
 }
